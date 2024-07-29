@@ -1,0 +1,68 @@
+body{background-color:#EDF4F5;}
+#contenedor{
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;}
+#cabecera{
+	width: -300px;
+	text-align: center;
+	background-color: #C1DAD6;
+	color: #C7AF8D;}
+
+#contenido{
+	float: left;
+      width: 700px;
+      background-color:#C7AFBD;
+      font-family:Arial;
+      font-size:14pt;
+      text-align:justify; }
+      h1{
+      color:#6D929B; 
+      text-align: center;
+      font-family: Goudy Stout; 
+      font-size: 30pt;}
+      h2{
+      color:#ACD1E9; 
+      text-align: center;
+	font-family: Goudy Stout; 
+	font-size: 30pt;}	
+	#ObjetivoGeneral{
+		text-align: center;
+		font-size: 20pt;
+		font-family: Franklin Gothic Demi Cond;
+	}
+	#Misión{
+		text-align: center;
+		font-size: 20pt;
+		font-family: Franklin Gothic Demi Cond;
+	}
+	#Visión{
+		text-align: center;
+		font-size: 20pt;
+		font-family: Franklin Gothic Demi Cond;
+	}
+	#Propósito{
+		text-align: center;
+		font-size: 20pt;
+		font-family: Franklin Gothic Demi Cond;
+	}
+	#Objetivo{
+		text-align: center;
+		font-size: 20pt;
+		font-family: Franklin Gothic Demi Cond;
+	}
+	img{
+		 position: absolute;
+		 left:20px;
+		 top: 10px;
+		 z-index: 5;}
+		 div.pie{ position: relative;
+			 left: 0px;
+			 top: 25px;
+			 background-color: black;
+			 color: white;
+			 clear: left;
+			 text-align: center;
+			 font-family: Comic Sans MS;
+			 }
+      
